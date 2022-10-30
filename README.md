@@ -56,6 +56,6 @@ I'm working for the most with C#, .net core, SQL, TypeScript, Angular and NX ðŸš
 </a>
 
 
-### Github Stats
+### Github Language Stats
 
 ![Maor's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MaorLev&langs_count=5&hide_title=true&hide_border=true&layout=compact)
