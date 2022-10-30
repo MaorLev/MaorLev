@@ -2,7 +2,7 @@
 
 I'm Full-Stack Developer 👨‍💻
 
-I'm from Israel 🇮🇱
+I'm from Israel
 
 I'm working for the most with C#, .net core, SQL, TypeScript, Angular and NX 🚀
 
@@ -54,9 +54,7 @@ I'm working for the most with C#, .net core, SQL, TypeScript, Angular and NX �
 <a href="mailto:maor79855@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<!-- <a href="https://www.MaorLev.com" target="_blank">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=avivharuzi.com&logoColor=white" alt="Gmail">
-</a> -->
+
 
 ### Github Stats
 
